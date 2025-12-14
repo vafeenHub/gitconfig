@@ -1,1 +1,1 @@
-# Git config for Windows
+# Git config 
